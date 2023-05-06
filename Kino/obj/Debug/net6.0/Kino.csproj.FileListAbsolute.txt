@@ -1,0 +1,251 @@
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\Kino.staticwebassets.runtime.json
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\Kino.exe
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\Kino.deps.json
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\Kino.runtimeconfig.json
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\Kino.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\Kino.pdb
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\kino2\Kino\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\kino2\Kino\obj\Debug\net6.0\Kino.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\kino2\Kino\obj\Debug\net6.0\Kino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\kino2\Kino\obj\Debug\net6.0\Kino.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\kino2\Kino\obj\Debug\net6.0\Kino.AssemblyInfo.cs
+C:\Users\Admin\Desktop\kino2\Kino\obj\Debug\net6.0\Kino.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\kino2\Kino\obj\Debug\net6.0\Kino.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\kino2\Kino\obj\Debug\net6.0\Kino.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\kino2\Kino\obj\Debug\net6.0\Kino.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\kino2\Kino\obj\Debug\net6.0\staticwebassets\msbuild.Kino.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\kino2\Kino\obj\Debug\net6.0\staticwebassets\msbuild.build.Kino.props
+C:\Users\Admin\Desktop\kino2\Kino\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Kino.props
+C:\Users\Admin\Desktop\kino2\Kino\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Kino.props
+C:\Users\Admin\Desktop\kino2\Kino\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\kino2\Kino\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\kino2\Kino\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\kino2\Kino\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\Desktop\kino2\Kino\obj\Debug\net6.0\scopedcss\bundle\Kino.styles.css
+C:\Users\Admin\Desktop\kino2\Kino\obj\Debug\net6.0\scopedcss\projectbundle\Kino.bundle.scp.css
+C:\Users\Admin\Desktop\kino2\Kino\obj\Debug\net6.0\Kino.csproj.CopyComplete
+C:\Users\Admin\Desktop\kino2\Kino\obj\Debug\net6.0\Kino.dll
+C:\Users\Admin\Desktop\kino2\Kino\obj\Debug\net6.0\refint\Kino.dll
+C:\Users\Admin\Desktop\kino2\Kino\obj\Debug\net6.0\Kino.pdb
+C:\Users\Admin\Desktop\kino2\Kino\obj\Debug\net6.0\Kino.genruntimeconfig.cache
+C:\Users\Admin\Desktop\kino2\Kino\obj\Debug\net6.0\ref\Kino.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\appsettings.Development.json
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\appsettings.json
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\Kino.staticwebassets.runtime.json
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\Kino.exe
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\Kino.deps.json
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\Kino.runtimeconfig.json
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\Kino.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\Kino.pdb
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\Azure.Core.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\Azure.Identity.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\Humanizer.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\System.CodeDom.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\System.Memory.Data.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\System.Text.Json.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\obj\Debug\net6.0\Kino.csproj.AssemblyReference.cache
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\obj\Debug\net6.0\Kino.GeneratedMSBuildEditorConfig.editorconfig
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\obj\Debug\net6.0\Kino.AssemblyInfoInputs.cache
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\obj\Debug\net6.0\Kino.AssemblyInfo.cs
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\obj\Debug\net6.0\Kino.csproj.CoreCompileInputs.cache
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\obj\Debug\net6.0\Kino.MvcApplicationPartsAssemblyInfo.cache
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\obj\Debug\net6.0\Kino.RazorAssemblyInfo.cache
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\obj\Debug\net6.0\Kino.RazorAssemblyInfo.cs
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\obj\Debug\net6.0\staticwebassets.build.json
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\obj\Debug\net6.0\staticwebassets.development.json
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\obj\Debug\net6.0\scopedcss\bundle\Kino.styles.css
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\obj\Debug\net6.0\scopedcss\projectbundle\Kino.bundle.scp.css
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\obj\Debug\net6.0\Kino.csproj.CopyComplete
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\obj\Debug\net6.0\Kino.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\obj\Debug\net6.0\refint\Kino.dll
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\obj\Debug\net6.0\Kino.pdb
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\obj\Debug\net6.0\Kino.genruntimeconfig.cache
+D:\StudiaAIR\ARP_6\NetJava\kino net\Kino\obj\Debug\net6.0\ref\Kino.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\appsettings.Development.json
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\appsettings.json
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\Kino.staticwebassets.runtime.json
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\Kino.exe
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\Kino.deps.json
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\Kino.runtimeconfig.json
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\Kino.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\Kino.pdb
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\Azure.Core.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\Azure.Identity.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\Humanizer.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\System.CodeDom.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\System.Memory.Data.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\System.Text.Json.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\obj\Debug\net6.0\Kino.csproj.AssemblyReference.cache
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\obj\Debug\net6.0\Kino.GeneratedMSBuildEditorConfig.editorconfig
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\obj\Debug\net6.0\Kino.AssemblyInfoInputs.cache
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\obj\Debug\net6.0\Kino.AssemblyInfo.cs
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\obj\Debug\net6.0\Kino.csproj.CoreCompileInputs.cache
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\obj\Debug\net6.0\Kino.MvcApplicationPartsAssemblyInfo.cache
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\obj\Debug\net6.0\Kino.RazorAssemblyInfo.cache
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\obj\Debug\net6.0\Kino.RazorAssemblyInfo.cs
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\obj\Debug\net6.0\staticwebassets.build.json
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\obj\Debug\net6.0\staticwebassets.development.json
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\obj\Debug\net6.0\scopedcss\bundle\Kino.styles.css
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\obj\Debug\net6.0\scopedcss\projectbundle\Kino.bundle.scp.css
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\obj\Debug\net6.0\Kino.csproj.CopyComplete
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\obj\Debug\net6.0\Kino.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\obj\Debug\net6.0\refint\Kino.dll
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\obj\Debug\net6.0\Kino.pdb
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\obj\Debug\net6.0\Kino.genruntimeconfig.cache
+D:\StudiaAIR\ARP_6\NetJava\Kino1\Kino\obj\Debug\net6.0\ref\Kino.dll

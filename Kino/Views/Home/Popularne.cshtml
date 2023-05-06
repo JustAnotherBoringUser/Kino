@@ -1,0 +1,17 @@
+﻿@using Kino.Data.Models;
+@model FilmyViewModel
+
+@{
+    ViewData["Title"] = "Popularne filmy";
+}
+<h1 class="text-center">Popularne filmy</h1>
+<div class="grid-box">
+    @foreach (var film in Model.results)
+    {
+        <article class="grid-element">
+            <h3>@film.title</h3>
+            <img src="@film.GetPosterUrl()" width="200">
+            <div>@film.release_date</div>
+        </article>
+    }
+</div>

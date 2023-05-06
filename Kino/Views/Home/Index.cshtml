@@ -1,0 +1,36 @@
+﻿@using Kino.Data.Models;
+@model List<Seans>
+
+@{
+    ViewData["Title"] = "Seanse";
+}
+<h1 class="text-center">Dostępne seanse</h1>
+
+<br />
+
+<form method="POST">
+    <input class="form-control" name="text"/>
+    <button type="submit" class="btn btn-success">Szukaj</button>
+</form>
+
+<br />
+
+<div class="grid-box">
+    @foreach (var seans in Model)
+    {
+        <article class="grid-element @(seans.Data <= DateTime.Now ? "disabled-seans": "")">
+            <h3>@seans.Film.Tytul</h3>
+            <div>@seans.Data</div>
+            <div>Sala @seans.Sala.Numer</div>
+            <div>Język @seans.WersjaJez</div>
+            <div>
+                @if (seans.Data > DateTime.Now)
+                {
+                    <a asp-controller="Home" asp-action="SeansDetails" asp-route-id="@seans.IdSeans"><button class="btn btn-success">Kup bilet</button></a>
+                }
+            </div>
+
+
+        </article>
+    }
+</div>

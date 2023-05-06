@@ -1,0 +1,114 @@
+﻿@model ZamowienieViewModel
+
+<h1 class="text-center">Szczegóły seansu</h1>
+
+<table class="table">
+    <tr>
+        <td>Tytuł</td>
+        <td>@ViewBag.Seans.Film.Tytul</td>
+    </tr>
+    <tr>
+        <td>Gatunek</td>
+        <td>@ViewBag.Seans.Film.Gatunek</td>
+    </tr>
+    <tr>
+        <td>Czas trwania</td>
+        <td>@ViewBag.Seans.Film.CzasTrawania</td>
+    </tr>
+    <tr>
+        <td>Data seansu</td>
+        <td>@ViewBag.Seans.Data</td>
+    </tr>
+    <tr>
+        <td>Sala</td>
+        <td>@ViewBag.Seans.Sala.Numer</td>
+    </tr>
+    <tr>
+        <td>Wersja językowa</td>
+        <td>@ViewBag.Seans.WersjaJez</td>
+    </tr>
+    <tr>
+        <td>Rezyseria</td>
+        <td>@ViewBag.Seans.Film.Rezyseria</td>
+    </tr>
+    <tr>
+        <td>Kraj</td>
+        <td>@ViewBag.Seans.Film.Kraj</td>
+    </tr>
+    <tr>
+        <td>Jezyk</td>
+        <td>@ViewBag.Seans.Film.Jezyk</td>
+    </tr>
+        <tr>
+        <td>OgrWiekowe</td>
+        <td>@ViewBag.Seans.Film.OgrWiekowe</td>
+    </tr>
+    <tr>
+        <td>Opis Dlugi</td>
+        <td>@ViewBag.Seans.Film.OpisDlugi</td>
+    </tr>
+    <tr>
+        <td>Opis Krotki</td>
+        <td>@ViewBag.Seans.Film.OpisKrotki</td>
+    </tr>
+    <tr>
+        <td>Dostepne Wersje</td>
+        <td>@ViewBag.Seans.Film.DostepneWersje</td>
+    </tr>
+</table>
+
+@if (ViewBag.Seans.Data > DateTime.Now)
+{
+    <h3>Kup bilet</h3>
+
+    <form method="POST">
+        <div>
+            <label asp-for="Imie"></label>
+            <input asp-for="Imie" class="form-control" />
+            <span asp-validation-for="Imie" class="text-danger"></span>
+        </div>
+        <div>
+            <label asp-for="Nazwisko"></label>
+            <input asp-for="Nazwisko" class="form-control" />
+            <span asp-validation-for="Nazwisko" class="text-danger"></span>
+        </div>
+        <div>
+            <label asp-for="Mail"></label>
+            <input asp-for="Mail" class="form-control" />
+            <span asp-validation-for="Mail" class="text-danger"></span>
+        </div>
+        <div>
+            <label asp-for="Platnosc"></label>
+            <select asp-for="Platnosc" class="form-control" asp-items="@ViewBag.Platnosci">
+                <option value="">Wybierz rodzaj płatności</option>
+            </select>
+            <span asp-validation-for="Platnosc" class="text-danger"></span>
+        </div>
+        <div>
+            <label asp-for="NrRzedu"></label>
+            <select asp-for="NrRzedu" class="form-control" asp-items="@ViewBag.Rzedy">
+                <option value="">Wybierz rząd</option>
+            </select>
+            <span asp-validation-for="NrRzedu" class="text-danger"></span>
+        </div>
+        <div>
+            <label asp-for="NrMiejsca"></label>
+            <select asp-for="NrMiejsca" class="form-control" asp-items="@ViewBag.Miejsca">
+                <option value="">Wybierz miejsce</option>
+            </select>
+            <span asp-validation-for="NrMiejsca" class="text-danger"></span>
+            @if (ViewBag.Error != null)
+            {
+                <p class="text-danger">@ViewBag.Error</p>
+            }
+        </div>
+        <div>
+            <label asp-for="Ulga"></label>
+            <select asp-for="Ulga" class="form-control" asp-items="@ViewBag.Ulgi">
+            </select>
+            <span asp-validation-for="Ulga" class="text-danger"></span>
+        </div>
+
+        <button class="btn btn-info">Kup bilet</button>
+    </form>
+}
