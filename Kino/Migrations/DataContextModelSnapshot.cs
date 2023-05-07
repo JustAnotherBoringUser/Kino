@@ -360,7 +360,7 @@ namespace Kino.Migrations
                         new
                         {
                             IdZamowienie = 1,
-                            Guid = new Guid("0c031186-0c27-4a92-bcc5-cb5c79e69640"),
+                            Guid = new Guid("27813b66-d725-4235-a6e9-ac95973adb19"),
                             IdSeans = 1,
                             Imie = "Marcin",
                             Mail = "marcin.kowalski@o2.pl",
@@ -371,7 +371,7 @@ namespace Kino.Migrations
                         new
                         {
                             IdZamowienie = 2,
-                            Guid = new Guid("1d8c2a77-3e1d-4564-a215-8bca08102a7e"),
+                            Guid = new Guid("f5fd6f08-5300-4f3b-9759-94f6cdb085b5"),
                             IdSeans = 2,
                             Imie = "Michał",
                             Mail = "michal.kubicki@o2.pl",
@@ -382,7 +382,7 @@ namespace Kino.Migrations
                         new
                         {
                             IdZamowienie = 3,
-                            Guid = new Guid("86d9b828-bd2d-4ace-9925-7ae6a5a9652b"),
+                            Guid = new Guid("5d5b7238-31cb-4973-8883-ba43f16e3128"),
                             IdSeans = 3,
                             Imie = "Dominik",
                             Mail = "dominik.syska@o2.pl",
@@ -393,7 +393,7 @@ namespace Kino.Migrations
                         new
                         {
                             IdZamowienie = 4,
-                            Guid = new Guid("7cd44159-a7dd-4648-85e6-52b2665036be"),
+                            Guid = new Guid("c5455aea-3a6c-4565-b942-43427c96c7ce"),
                             IdSeans = 4,
                             Imie = "Magda",
                             Mail = "magda.sokolowska@o2.pl",
