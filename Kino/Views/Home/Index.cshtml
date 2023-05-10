@@ -15,7 +15,7 @@
 
 <br />
 
-<div class="grid-box">
+<div class="grid-box"> <!-- wyswietlanie danych odnosnie seansow na stronie glownej-->
     @foreach (var seans in Model)
     {
         <article class="grid-element @(seans.Data <= DateTime.Now ? "disabled-seans": "")">
@@ -24,8 +24,8 @@
             <div>Sala @seans.Sala.Numer</div>
             <div>Język @seans.WersjaJez</div>
             <div>
-                @if (seans.Data > DateTime.Now)
-                {
+                <!--{ jesli seans jest z data przyszla to mozemy uzyc przycisku kup bilet } -->
+                @if (seans.Data > DateTime.Now) {
                     <a asp-controller="Home" asp-action="SeansDetails" asp-route-id="@seans.IdSeans"><button class="btn btn-success">Kup bilet</button></a>
                 }
             </div>

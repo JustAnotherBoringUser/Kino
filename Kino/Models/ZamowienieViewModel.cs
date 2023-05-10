@@ -4,7 +4,7 @@ namespace Kino.Models
 {
     public class ZamowienieViewModel
     {
-        [Required]
+        [Required] //te pola sa wymagane do wypelnienia oraz ograniczone
         [MinLength(2)]
         [MaxLength(50)]
         public string Imie { get; set; }

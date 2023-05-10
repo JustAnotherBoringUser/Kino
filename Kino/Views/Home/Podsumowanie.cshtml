@@ -1,7 +1,7 @@
 ﻿@using Kino.Data.Models;
 @model Zamowienie
 
-<h1 class="text-center">Podsumowanie zamówienia</h1>
+<h1 class="text-center">Podsumowanie zamówienia</h1> <!-- wyswietlanie danych na stronie z podsumowaniem-->
 
 <table class="table">
     <tr>
@@ -50,17 +50,17 @@
     </tr>
 </table>
 
-@if(Model.Status == "Niepotwierdzone")
+@if(Model.Status == "Niepotwierdzone") //jezeli status jest niepotwierdzony 
 {
 <div class="text-center">
     @if (Model.Platnosc == "online")
     {
-        <a asp-action="Potwierdzenie" asp-route-guid="@Model.Guid"><button class="btn btn-success">Zamawiam i płacę</button></a>
+        <a asp-action="Potwierdzenie" asp-route-guid="@Model.Guid"><button class="btn btn-success">Zamawiam i płacę</button></a> //mozliwosc zaplacenia
 
     }
     else
     {
-        <a asp-action="Potwierdzenie" asp-route-guid="@Model.Guid"><button class="btn btn-success">Zamawiam</button></a>
+        <a asp-action="Potwierdzenie" asp-route-guid="@Model.Guid"><button class="btn btn-success">Zamawiam</button></a> //mozliwosc zamowienia
     }
 </div>
 }

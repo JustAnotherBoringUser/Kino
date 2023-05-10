@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "hV7OZDoSx07nDAdICwxy9c+tkLIOjSmq/s/sQ68mqWCclm3hdXcqQAGqgV+s2SlS5iofAl1oOmFFuGGjh5uA5A==",
+  "dgSpecHash": "11AUkcDUwvSHBZ21SiPpX4to5oyzig5BRakqgQNKNv7Ln946px3QSQRs6BuSAMbdtLouRTlFA5e9gkfu0eQwsQ==",
   "success": true,
   "projectFilePath": "D:\\StudiaAIR\\ARP_6\\NetJava\\Kino1\\Kino\\Kino.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\justk\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\justk\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\justk\\.nuget\\packages\\docfx.console\\2.59.4\\docfx.console.2.59.4.nupkg.sha512",
     "C:\\Users\\justk\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\justk\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\justk\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

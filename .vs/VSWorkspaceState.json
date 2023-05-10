@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\Kino",
-    "\\Kino\\Data"
+    "\\Kino\\Controllers",
+    "\\Kino\\Data",
+    "\\Kino\\Views",
+    "\\Kino\\Views\\Home"
   ],
-  "SelectedNode": "\\Kino\\Data\\DataContext.cs",
+  "SelectedNode": "\\Kino\\Views\\Home\\SeansDetails.cshtml",
   "PreviewInSolutionExplorer": false
 }

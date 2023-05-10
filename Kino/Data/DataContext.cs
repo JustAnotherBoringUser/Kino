@@ -1,5 +1,9 @@
 ﻿using Kino.Data.Models;
+using Kino.Migrations;
 using Microsoft.EntityFrameworkCore;
+using System;
+using System.Reflection.Metadata;
+using System.Security.Cryptography;
 
 //dotnet tool install --global dotnet-ef
 //Add-Migrations "init"
@@ -7,7 +11,10 @@ using Microsoft.EntityFrameworkCore;
 
 //dotnet ef migrations add "nazwa"
 //dotnet ef database update
-
+///<summary>
+///definicja klasy dla DbContext o nazwie DataContext, która dziedziczy z DbContext. Definiuje zestaw właściwości DbSet dla każdego podmiotu w bazie danych, w tym Bilety, Filmy, Miejsce, Sala, Seans i Zamowienie.
+///Parametr DbContextOptions w konstruktorze służy do konfigurowania połączenia z bazą danych.
+/// </summary>
 namespace Kino.Data
 {
     public class DataContext : DbContext
@@ -23,11 +30,15 @@ namespace Kino.Data
     : base(options)
         {
         }
-
+       
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
-
+            ///<summary>
+            ///Ten kod używa płynnego interfejsu API Entity Framework Core do konfigurowania danych początkowych jednostki Sala. Metoda OnModelCreating jest wywoływana podczas tworzenia kontekstu bazy danych i służy do konfigurowania modeli jednostek i ich relacji.
+            /// W tym przypadku jednostka Sala ma cztery instancje danych początkowych, które są zdefiniowane za pomocą metody HasData. Każda Sala ma właściwość IdSala, Numer, IloscMiejsc i IloscRzedow.Metoda HasData pobiera tablicę anonimowych obiektów, które reprezentują początkowe dane jednostki.
+            ///Właściwość IdSala jest kluczem podstawowym jednostki Sala i jest ustawiana jawnie dla każdej instancji danych.Definiując dane początkowe w ten sposób, baza danych zostanie zaszczepiona początkowymi danymi Sala, gdy kontekst zostanie utworzony po raz pierwszy.
+            /// </summary>
             modelBuilder.Entity<Sala>().HasData(new[]
             {
                 new Sala
@@ -59,7 +70,11 @@ namespace Kino.Data
                     IloscRzedow = 10
                 },
             });
-
+            ///<summary>
+            ///Fragment kodu jest napisany w języku C# i definiuje dane dla filmów w aplikacji. Każdy film ma właściwości, takie jak identyfikator, tytuł, gatunek, czas trwania, data premiery, reżyser, dostępne wersje, język, kraj, ograniczenia wiekowe, długie i krótkie opisy.
+            ///Metoda HasData służy do wypełniania początkowych danych dla encji Film.Każdy film jest definiowany jako instancja klasy Film i dodawany do tablicy filmów przy użyciu inicjatora obiektu.Składnia new[] wskazuje, że tworzona jest tablica.
+            ///Na przykład pierwszy film ma IdFilm 1, tytuł „Za linią wroga”, gatunek „Wojenny”, czas trwania „02:00:00”, datę premiery 15 października 2001 itd. NA.
+            ///</summary>
             modelBuilder.Entity<Film>().HasData(new[]
             {
                 new Film

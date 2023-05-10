@@ -1,6 +1,6 @@
 ﻿@model ZamowienieViewModel
 
-<h1 class="text-center">Szczegóły seansu</h1>
+<h1 class="text-center">Szczegóły seansu</h1> <!-- wyswietlanie szczegolow seansu w tabelce-->
 
 <table class="table">
     <tr>
@@ -56,16 +56,15 @@
         <td>@ViewBag.Seans.Film.DostepneWersje</td>
     </tr>
 </table>
-
-@if (ViewBag.Seans.Data > DateTime.Now)
-{
+<!-- jezeli seans jest z data przyszla to mozemy podac dane do formularza-->
+@if (ViewBag.Seans.Data > DateTime.Now) {
     <h3>Kup bilet</h3>
 
     <form method="POST">
         <div>
             <label asp-for="Imie"></label>
             <input asp-for="Imie" class="form-control" />
-            <span asp-validation-for="Imie" class="text-danger"></span>
+            <span asp-validation-for="Imie" class="text-danger"></span> <!-- wyswietlanie bledow-->
         </div>
         <div>
             <label asp-for="Nazwisko"></label>

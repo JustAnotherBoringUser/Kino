@@ -22,7 +22,7 @@ main {
     height: 100%;
 }
 */
-
+/*formatowanie wygladu strony*/
 .grid-box {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
